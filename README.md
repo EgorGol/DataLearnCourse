@@ -1,2 +1,2 @@
 # DataLearnCourse
-This is repository for home work files.
+This is repository for homework files.
